@@ -34,7 +34,7 @@ namespace simplecalc
             }
             else
             {
-                Console.WriteLine("Invalid operator");
+                Console.WriteLine("Invalid Operator");
             }
         }
     }
